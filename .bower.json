@@ -1,0 +1,34 @@
+{
+  "name": "react-externs",
+  "version": "0.12.3",
+  "homepage": "https://github.com/steida/react-externs",
+  "authors": [
+    "Daniel Steigerwald <daniel@steigerwald.cz>"
+  ],
+  "description": "Closure Compiler externs for Facebook React.js",
+  "main": "externs.js",
+  "keywords": [
+    "google",
+    "closure",
+    "compiler",
+    "react",
+    "externs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "0.12.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.12.3",
+    "commit": "e3343e69c4d76fda2ae204f93954dd0272c98dcf"
+  },
+  "_source": "git://github.com/steida/react-externs.git",
+  "_target": "0.12.3",
+  "_originalSource": "git://github.com/steida/react-externs.git"
+}
